@@ -12,5 +12,8 @@
   "license": "ISC",
   "devDependencies": {
     "typescript": "^5.0.4"
+  },
+  "dependencies": {
+    "tailwindcss": "^3.3.2"
   }
 }
