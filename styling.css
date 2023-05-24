@@ -1,3 +1,15 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+:root {
+    --dorianGrey: #2F3C42;
+    --outerspace: #44565F;
+    --payneGrey: #586F7C;
+    --mint: #A0C0C2;
+    --offMint: #B8DBD9;
+    --offWhite: #E5EEF1;
+    --palePink: #DECCCC;
+    --timberwolf: #E5DAD9;
+    
+}
