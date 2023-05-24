@@ -4,6 +4,7 @@
 
 :root {
     --dorianGrey: #2F3C42;
+    --dusk: #114B5F;
     --outerspace: #44565F;
     --payneGrey: #586F7C;
     --mint: #A0C0C2;
@@ -12,4 +13,12 @@
     --palePink: #DECCCC;
     --timberwolf: #E5DAD9;
     
+}
+
+body{
+    min-height: 100vh;
+    display: grid;
+    place-content: center;
+    background: var(--dusk);
+
 }
