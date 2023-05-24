@@ -22,3 +22,51 @@ body{
     background: var(--dusk);
 
 }
+
+card {
+    
+    background-color: var(--payneGrey);
+    position: relative;
+    width: 200%;
+    height: 70%;
+    margin: 30%;
+    text-align: center;
+    color: var(--timberwolf);
+    border-radius: 0.5rem;
+    clear: both;
+    /* Add this property to clear the float */
+    border: 5px solid var(--offMint);
+    border-radius: inherit;
+    /* Add border property */
+    font-size: 25px;
+    inset: 0;
+}
+
+
+aside {
+    /* filter:blur(3.5rem); */
+    /* content: ""; */
+    background: linear-gradient(
+        0deg, 
+        var(--badBitch),
+        var(--sunrise),
+        var(--sunsetRed)
+    );
+    width: calc(80% - 30px);
+    /* Adjust the width to make space for margins */
+    height: 450px;
+    margin: 3%;
+    text-align: center;
+    font-size: 40px;
+    border-radius: 10px;
+    border: 6px solid var(--litePink);
+    /* Add border property */
+    box-sizing: border-box;
+    display: inline-block;
+    box-shadow: 0 0 70px var(--litePink);
+    /* Add box-shadow property */
+    animation: glow 3s ease-in-out infinite;
+    /* Add animation property */
+}
+
+
