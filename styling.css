@@ -1,6 +1,3 @@
-@import 'tailwindcss/base';
-@import 'tailwindcss/components';
-@import 'tailwindcss/utilities';
 
 :root {
     --dorianGrey: #2F3C42;
@@ -10,10 +7,25 @@
     --mint: #A0C0C2;
     --offMint: #B8DBD9;
     --offWhite: #E5EEF1;
-    --palePink: #DECCCC;
+    --palePink: #e9cdcd;
     --timberwolf: #E5DAD9;
     
 }
+
+.h1{
+font-size: 50px;
+position: relative;
+text-align: center;
+color: rgb(17, 237, 237);
+
+}
+.h2{
+    font-size: 30px;
+    position: relative;
+    text-align: center;
+    color: rgb(17, 237, 237);
+    
+    }
 
 body{
     min-height: 100vh;
@@ -27,35 +39,39 @@ body{
     
     background-color: var(--payneGrey);
     position: relative;
-    width: 60%;
+    width: 70%;
     height: 40%;
-    margin: 20%;
+    margin: 15%;
     text-align: center;
-    color: var(--timberwolf);
+    color: var(--palePink);
     border-radius: .5rem;
     clear: both;
     /* Add this property to clear the float */
-    border: 5px solid var(--offMint);
-    border-radius: inherit;
+    border: 7px solid var(--offMint);
+    border-radius: 10px;
     /* Add border property */
     font-size: 25px;
     inset: 0;
+
+    animation: glowing 4s infinite;
 }
 
 .button {
   background-color: var(--payneGrey);
     position: relative;
-    width: 90%;
-    height: 40%;
-    margin: 20%;
+    width: 50%;
+    height: 30%;
+    margin: 25%;
     text-align: center;
-    color: var(--timberwolf);
+    color: var(--palePink);
 
    
     border: 5px solid var(--offMint);
-    border-radius: inherit;
+    border-radius: 10px;
     /* Add border property */
     font-size: 25px;
     inset: 0;
     
 } 
+
+  
