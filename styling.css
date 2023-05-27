@@ -40,7 +40,7 @@ body{
     background-color: var(--payneGrey);
     position: relative;
     width: 70%;
-    height: 40%;
+    height: 30%;
     margin: 15%;
     text-align: center;
     color: var(--palePink);
@@ -53,15 +53,15 @@ body{
     font-size: 25px;
     inset: 0;
 
-    animation: glowing 4s infinite;
+    animation: glowing 5s infinite;
 }
 
 .button {
   background-color: var(--payneGrey);
     position: relative;
-    width: 50%;
-    height: 30%;
-    margin: 25%;
+    width: 60%;
+    height: 35%;
+    margin: 20%;
     text-align: center;
     color: var(--palePink);
 
