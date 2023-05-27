@@ -6,17 +6,19 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Tall Talk</title>
-    <link rel="stylesheet" href="styling.css">
+    <link rel="stylesheet" href="https://cdn.tailwindcss.com/2.2.16/tailwind.min.css">
+    <link rel= "stylesheet" href="styling.css">
+    
 
 </head>
 
 <body>
-    <!-- <h1>Tall Talk</h1> -->
+    <h1>Tall Talk</h1>
 
-    <div class="card">
+    <div class="card p-4 bg-payneGrey text-timberwolf">
         <h3 id="question"> </h3>
         <br>
-        <button id="next?">Next ?</button>
+        <button class="button p-4 bg-payneGrey text-timberwolf">Next ?</button>
     </div>
 
     <script>
@@ -25,7 +27,8 @@
             "What is your favorite animal?",
             "Where in the world would you like to be transported to?",
             "If you could leave Earth to travel the universe, but you could never return, would you?",
-            "Who hurt you?"
+            "Who hurt you?",
+            "Do you prefer rain or sun?"
           ];
     
           const randomIndex = Math.floor(Math.random() * questions.length);
@@ -33,7 +36,7 @@
         }
     
         const questionElement = document.getElementById('question');
-        const changeQuestionButton = document.getElementById('changeQuestionButton');
+        const changeQuestionButton = document.querySelector('.button');
     
         function changeQuestion() {
           questionElement.textContent = generateRandomQuestion();
