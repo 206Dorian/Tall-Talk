@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+
 <head>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -8,11 +9,45 @@
     <link rel="stylesheet" href="styling.css">
 
 </head>
+
 <body>
-    <card> C'est Chouette </card>
+    <!-- <h1>Tall Talk</h1> -->
+
+    <div class="card">
+        <h3 id="question"> </h3>
+        <br>
+        <button id="next?">Next ?</button>
+    </div>
+
+    <script>
+        function generateRandomQuestion() {
+          const questions = [
+            "What is your favorite animal?",
+            "Where in the world would you like to be transported to?",
+            "If you could leave Earth to travel the universe, but you could never return, would you?",
+            "Who hurt you?"
+          ];
     
-    <aside>A bientot</aside>
-<h1>Tall Talk</h1>
+          const randomIndex = Math.floor(Math.random() * questions.length);
+          return questions[randomIndex];
+        }
+    
+        const questionElement = document.getElementById('question');
+        const changeQuestionButton = document.getElementById('changeQuestionButton');
+    
+        function changeQuestion() {
+          questionElement.textContent = generateRandomQuestion();
+        }
+    
+        changeQuestionButton.addEventListener('click', changeQuestion);
+        questionElement.textContent = generateRandomQuestion();
+      </script>
+    </style>
+
+
+
+
     <script src="dist\index.js"></script>
 </body>
+
 </html>
