@@ -27,17 +27,17 @@ color: rgb(17, 237, 237);
     }
 
 .navbar{
-    background-color: var(--payneGrey);
+    background-color: var(--timberwolf);
     position: relative;
     width: 70%;
     height: 30%;
     margin: 15%;
     text-align: center;
-    color: var(--palePink);
+    color: var(--outerspace);
     border-radius: .5rem;
     clear: both;
     /* Add this property to clear the float */
-    border: 3px solid var(--offMint);
+    /* border: 3px solid var(--offMint); */
     border-radius: 30px;
     /* Add border property */
     font-size: 25px;
@@ -73,7 +73,7 @@ body{
     font-size: 25px;
     inset: 0;
 
-    animation: glowing 5s infinite;
+    animation: glowing 4s infinite;
 }
 
 .button {
@@ -116,9 +116,9 @@ body{
    {
     background-color: var(--payneGrey);
     position: relative;
-    width: 70%;
-    height: 30%;
-    margin: 15%;
+    width: 90%;
+    height: 90%;
+    margin: 5%;
     text-align: center;
     color: var(--palePink);
     border-radius: .5rem;
