@@ -20,8 +20,9 @@ It's also a good practice to keep your README up to date as your project evolves
 # Tall-Talk
 A random question generator to get people talking about interesting things, not just "small talk". 
 
-I've always enjoyed deep conversations and dont care for "small talk", perhpas because 'i'm a Scorpio or perhaps because I'm 6'5" tall. 
-Thats partly why I named this Tall Talk and not big talk or deep conversations, also those didnt roll oiff the tongue the way Talk Talk does. 
+I've always enjoyed deep conversations and dont care for "small talk", perhaps because i'm a Scorpio or perhaps because I'm 6'5".
+
+Thats partly why I named this Tall Talk, I hope this gets you talking and thinking, Enjoy!
 
  
 ## Features
