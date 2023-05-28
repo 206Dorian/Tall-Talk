@@ -24,8 +24,28 @@ color: rgb(17, 237, 237);
     position: relative;
     text-align: center;
     color: rgb(17, 237, 237);
-    
     }
+
+.navbar{
+    background-color: var(--payneGrey);
+    position: relative;
+    width: 70%;
+    height: 30%;
+    margin: 15%;
+    text-align: center;
+    color: var(--palePink);
+    border-radius: .5rem;
+    clear: both;
+    /* Add this property to clear the float */
+    border: 3px solid var(--offMint);
+    border-radius: 30px;
+    /* Add border property */
+    font-size: 25px;
+    inset: 0;
+
+    
+
+}
 
 body{
     min-height: 100vh;
@@ -47,8 +67,8 @@ body{
     border-radius: .5rem;
     clear: both;
     /* Add this property to clear the float */
-    border: 7px solid var(--offMint);
-    border-radius: 10px;
+    border: 3px solid var(--offMint);
+    border-radius: 30px;
     /* Add border property */
     font-size: 25px;
     inset: 0;
@@ -67,11 +87,49 @@ body{
 
    
     border: 5px solid var(--offMint);
-    border-radius: 10px;
+    border-radius: 30px;
     /* Add border property */
     font-size: 25px;
     inset: 0;
-    
+    transition: background-color 0.3s ease;
 } 
 
-  
+.button:hover {
+    background-color: #999;
+    color: #000;
+  }
+
+
+@keyframes glowing {
+  0% {
+    box-shadow: 0 0 5px aqua;
+  }
+  50% {
+    box-shadow: 0 0 20px aqua, 0 0 40px #fff, 0 0 60px #fff;
+  }
+  100% {
+    box-shadow: 0 0 5px #fff;
+  }
+}
+
+.footer
+   {
+    background-color: var(--payneGrey);
+    position: relative;
+    width: 70%;
+    height: 30%;
+    margin: 15%;
+    text-align: center;
+    color: var(--palePink);
+    border-radius: .5rem;
+    clear: both;
+    /* Add this property to clear the float */
+    border: 3px solid var(--offMint);
+    border-radius: 30px;
+    /* Add border property */
+    font-size: 25px;
+    inset: 0;
+
+   
+
+   }
