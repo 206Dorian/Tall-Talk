@@ -1,3 +1,22 @@
+<!-- Project Overview: Provide a brief introduction to your project, explaining its purpose and main features. This gives readers an immediate understanding of what the project is about.
+
+Installation and Setup: Clearly outline the steps required to install and set up the project. Include any dependencies or prerequisites that need to be installed and any additional configuration instructions.
+
+Usage: Describe how to use the project, including any commands or actions required to interact with it. If there are specific features or functionality that users should be aware of, provide instructions or examples.
+
+Configuration: If your project requires configuration files or settings, explain how to customize them and what options are available.
+
+Contributing: If you welcome contributions from others, provide guidelines on how to contribute, including any coding standards, branching strategies, and submission process for pull requests.
+
+License: Specify the license under which your project is distributed. This is important for clarifying the permissions and restrictions on the usage and distribution of your project.
+
+Additional Information: Include any other relevant information that might be helpful or important for users and contributors. This could include known issues, troubleshooting tips, contact information, or links to additional resources.
+
+Remember to strike a balance between providing enough information to be helpful and avoiding excessive detail. Use clear and concise language, provide examples where necessary, and organize the information in a logical manner.
+
+It's also a good practice to keep your README up to date as your project evolves and incorporate any changes or new features. -->
+
+
 # Tall-Talk
 A random question generator to get people talking about interesting things, not just "small talk". 
 
