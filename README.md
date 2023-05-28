@@ -1,6 +1,9 @@
 # Tall-Talk
 A random question generator to get people talking about interesting things, not just "small talk". 
 
+I've always enjoyed deep conversations and dont care for "small talk", perhpas because 'i'm a Scorpio or perhaps because I'm 6'5" tall. 
+Thats partly why I named this Tall Talk and not big talk or deep conversations, also those didnt roll oiff the tongue the way Talk Talk does. 
+
  
 ## Features
 
@@ -20,8 +23,6 @@ To get a local copy of the project, follow these steps:
 
 1. Clone the repository:
 
-   ```bash
-   git clone https://github.com/your-username/tall-talk.git
 
 
 https://206dorian.github.io/Tall-Talk/
