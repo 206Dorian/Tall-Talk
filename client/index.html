@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Tall Talk</title>
+
+  <link rel="stylesheet" href="styling.css">
+
+
+</head>
+
+<body>
+  <nav class="navbar">Nav Bar
+    <br>
+    <button class="bttn"> A </button>
+    <button class="bttn"> B </button>
+    <button class="bttn"> C </button>
+  </nav>
+  <h1 class="h1">Tall Talk... </h1>
+  <h2 class="h2">Because I have no time for small talk</h2>
+
+
+
+  <div class="card p-4 bg-payneGrey text-timberwolf">
+    <h3 id="question"> </h3>
+
+    <button class="button p-4 bg-payneGrey text-timberwolf">Next Question?</button>
+  </div>
+
+  <input type="text" id="newQuestionInput" placeholder="Enter your question">
+  <button id="addQuestionButton">Add Question</button>
+  
+
+  <script>
+    function generateRandomQuestion() {
+      const questions = [
+        "What is your favorite animal?",
+
+        "Where in all the world would you like to be transported to at this very moment?",
+
+        "If you could leave Earth to travel the universe, but you could never return, would you?",
+
+        "Who hurt you?",
+
+        "Do you prefer rain or sun?"
+      ];
+
+      const randomIndex = Math.floor(Math.random() * questions.length);
+      return questions[randomIndex];
+    }
+
+    const questionElement = document.getElementById('question');
+    const changeQuestionButton = document.querySelector('.button');
+
+    function changeQuestion() {
+      questionElement.textContent = generateRandomQuestion();
+    }
+
+    changeQuestionButton.addEventListener('click', changeQuestion);
+    questionElement.textContent = generateRandomQuestion();
+  </script>
+
+
+  <footer class="footer">Thanks for taking the time to answer some questions.
+    <br>
+    If you like this app and want to give me a job, <br> here are my links!
+    <br>
+    <a href="https://github.com/206Dorian"> Github</a>
+    <br>
+    <a href="https://www.linkedin.com/in/dorian-douglas-birch-70695b4b/">LinkedIn</a>
+    <br>
+    <a href="https://206dorian.github.io/dorian-portfolio/">Portfolio</a>
+
+  </footer>
+  <br><br></br>
+
+  <script src="dist\index.js"></script>
+</body>
+
+</html>
