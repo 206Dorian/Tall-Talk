@@ -8,7 +8,10 @@ function generateRandomQuestions() {
         
         "Who hurt you?",
         
-        "what type of weather is your favorite?"
+
+        "what type of weather is your favorite?",
+        
+        "Who is your fav drag queen?"
     ];
     
     // Add dynamically added questions to the array

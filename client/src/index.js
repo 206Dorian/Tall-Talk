@@ -8,7 +8,10 @@ function generateRandomQuestions() {
         
         "Who hurt you?",
         
-        "what type of weather is your favorite?"
+        "what type of weather is your favorite?",
+        
+        "Who is your fav drag queen?"
+
     ];
     
     var randomIndex = Math.floor(Math.random() * questions.length);
