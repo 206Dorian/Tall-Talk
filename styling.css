@@ -5,8 +5,8 @@
   --payneGrey: #586F7C;
   --aqua: aqua;
   --mint: #A0C0C2;
-  --offMint: #B8DBD9;
   --offWhite: #E5EEF1;
+  --offMint: #B8DBD9;
   --palePink: #e9cdcd;
   --timberwolf: #E5DAD9;
 
@@ -49,8 +49,11 @@
   margin-top: 10px;
   margin-bottom: 15px;
 
+}
 
 
+.addQuestionButton{
+  
 }
 
 body {

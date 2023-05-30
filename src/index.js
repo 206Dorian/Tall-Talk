@@ -10,6 +10,7 @@ function generateRandomQuestions() {
         
         "what type of weather is your favorite?"
     ];
+    
     var randomIndex = Math.floor(Math.random() * questions.length);
     return questions[randomIndex];
 }
