@@ -8,13 +8,13 @@ function generateRandomQuestions() {
         
         "Who hurt you?",
         
-        "what type of weather is your favorite?",
+        "What type of weather is your favorite?",
         
-        "Who is your fav drag queen?",
+        "Who is your favorite drag Queen/King?",
 
-        "what is your part in the universe?",
+        "What is your part in the universe?",
 
-        "what 1 thing would you change about yourself"
+        "What 1 thing would you change about yourself"
 
     ];
     
