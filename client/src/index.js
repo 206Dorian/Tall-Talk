@@ -14,8 +14,16 @@ function generateRandomQuestions() {
 
     ];
     
-    var randomIndex = Math.floor(Math.random() * questions.length);
-    return questions[randomIndex];
-}
-var randomQuestion = generateRandomQuestions();
-console.log(randomQuestion);
+    const randomIndex = Math.floor(Math.random() * questions.length);
+      return questions[randomIndex];
+    }
+
+    const questionElement = document.getElementById('question');
+    const changeQuestionButton = document.querySelector('.button');
+
+    function changeQuestion() {
+      questionElement.textContent = generateRandomQuestions();
+    }
+
+    changeQuestionButton.addEventListener('click', changeQuestion);
+    questionElement.textContent = generateRandomQuestions();
