@@ -10,7 +10,11 @@ function generateRandomQuestions() {
         
         "what type of weather is your favorite?",
         
-        "Who is your fav drag queen?"
+        "Who is your fav drag queen?",
+
+        "what is your part in the universe?",
+
+        "what 1 thing would you change about yourself"
 
     ];
     
