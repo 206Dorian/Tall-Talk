@@ -14,7 +14,15 @@ function generateRandomQuestions() {
 
         "What is your part in the universe?",
 
-        "What 1 thing would you change about yourself"
+        "What 1 thing would you change about yourself", 
+
+        "Whats is 1 thing you wouldn't change about yourself?",
+
+        "Waht recent event have you seen that restored your confidence in humanity",
+
+        "Whats your go to funny story?",
+
+        ""
 
     ];
     
