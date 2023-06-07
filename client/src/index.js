@@ -16,11 +16,37 @@ function generateRandomQuestions() {
 
         "What 1 thing would you change about yourself", 
 
-        "Whats is 1 thing you wouldn't change about yourself?",
+        "What is 1 thing you wouldn't change about yourself?",
 
-        "Waht recent event have you seen that restored your confidence in humanity",
+        "What recent event have you seen that restored your confidence in humanity",
 
         "Whats your go to funny story?",
+
+        "What event made ou a stronger person?",
+
+        "Have you ever been in jail/prison?",
+
+        "What are you currenly doubting about yourself?",
+
+        "What are you currenly confident about in yourself?",
+
+        "Whats a situation when you look back you wish youd have done?",
+
+        "Whats an interesting fact that you recently learned?",
+
+        "What do you love most about where you grew up?",
+
+        "What do you like the least about where you grew up?",
+
+        "What do you think is the most valuable resource?",
+
+        "What would you describe as wealth?",
+
+        "What is the last big goal you accomplished",
+
+        "Of all the things you've bought in your life what has been the best purchase?",
+
+        "Of all the things you've bought in your life what has been the worst purchase?",
 
         ""
 
