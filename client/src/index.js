@@ -20,9 +20,9 @@ function generateRandomQuestions() {
 
         "What recent event have you seen that restored your confidence in humanity",
 
-        "Whats your go to funny story?",
+        "What is your go to funny story?",
 
-        "What event made ou a stronger person?",
+        "What event made you a stronger person?",
 
         "Have you ever been in jail/prison?",
 
@@ -30,7 +30,7 @@ function generateRandomQuestions() {
 
         "What are you currenly confident about in yourself?",
 
-        "Whats a situation when you look back you wish youd have done?",
+        "What is a situation you look back on and you wish you would or wouldn't have done?",
 
         "Whats an interesting fact that you recently learned?",
 
@@ -48,7 +48,7 @@ function generateRandomQuestions() {
 
         "Of all the things you've bought in your life what has been the worst purchase?",
 
-        ""
+        "On any given day "
 
     ];
     
