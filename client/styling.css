@@ -9,10 +9,14 @@
   --offMint: #B8DBD9;
   --palePink: #e9cdcd;
   --timberwolf: #E5DAD9;
-
 }
 
-.h1 {
+  .bttn {
+color: var(--palePink);
+background-color: var(--outerspace);
+  }
+
+  .h1 {
   font-size: 80px;
   position: relative;
   text-align: center;
@@ -119,6 +123,15 @@ body {
   color: #000;
 }
 
+.checkbox {
+  transform: scale(3.5); /* Increase the size as needed */
+}
+
+.color-input {
+  width: 200px; /* Adjust the width as needed */
+  height: 40px; /* Adjust the height as needed */
+}
+
 
 @keyframes glowing {
   0% {
@@ -134,10 +147,7 @@ body {
   }
 }
 
-.bttn {
-  background-color: #8dcbe8;
-  font-family: 'Alegreya Sans SC', sans-serif;
-}
+
 
 .footer {
   background-color: var(--payneGrey);
