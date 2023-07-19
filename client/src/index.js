@@ -1,67 +1,85 @@
 function generateRandomQuestions() {
-    var questions = [
-        "What is your favorite Animal?",
+  var questions = [
+    "What is your favorite Animal?",
 
-        "Where in all the world would you like to be transported to?",
-        
-        "If you could leave earth to travel the universe, but you could never return would you?",
-        
-        "Who hurt you?",
-        
-        "What type of weather is your favorite?",
-        
-        "Who is your favorite drag Queen/King?",
+    "Where in all the world would you like to be transported to?",
 
-        "What is your part in the universe?",
+    "If you could leave earth to travel the universe, but you could never return would you?",
 
-        "What 1 thing would you change about yourself", 
+    "Who hurt you?",
 
-        "What is 1 thing you wouldn't change about yourself?",
+    "What type of weather is your favorite?",
 
-        "What recent event have you seen that restored your confidence in humanity",
+    "Who is your favorite drag Queen/King?",
 
-        "What is your go to funny story?",
+    "What is your part in the universe?",
 
-        "What event made you a stronger person?",
+    "What 1 thing would you change about yourself",
 
-        "Have you ever been in jail/prison?",
+    "What is 1 thing you wouldn't change about yourself?",
 
-        "What are you currenly doubting about yourself?",
+    "What recent event have you seen that restored your confidence in humanity",
 
-        "What are you currenly confident about in yourself?",
+    "What is your go to funny story?",
 
-        "What is a situation you look back on and you wish you would or wouldn't have done?",
+    "What event made you a stronger person?",
 
-        "Whats an interesting fact that you recently learned?",
+    "Have you ever been in jail/prison?",
 
-        "What do you love most about where you grew up?",
+    "What are you currenly doubting about yourself?",
 
-        "What do you like the least about where you grew up?",
+    "What are you currenly confident about in yourself?",
 
-        "What do you think is the most valuable resource?",
+    "What is a situation you look back on and you wish you would or wouldn't have done?",
 
-        "What would you describe as wealth?",
+    "Whats an interesting fact that you recently learned?",
 
-        "What is the last big goal you accomplished",
+    "What do you love most about where you grew up?",
 
-        "Of all the things you've bought in your life what has been the best purchase?",
+    "What do you like the least about where you grew up?",
 
-        "Of all the things you've bought in your life what has been the worst purchase?",
+    "What do you think is the most valuable resource?",
 
-        "On any given day "
+    "What would you describe as wealth?",
 
-    ];
-    
-    const randomIndex = Math.floor(Math.random() * questions.length);
-      return questions[randomIndex];
-    }
+    "What is the last big goal you accomplished",
 
-    const questionElement = document.getElementById('question');
-    const changeQuestionButton = document.querySelector('.button');
+    "Of all the things you've bought in your life what has been the best purchase?",
 
-    function changeQuestion() {
-      questionElement.textContent = generateRandomQuestions();
-    }
+    "Of all the things you've bought in your life what has been the worst purchase?",
 
-    changeQuestionButton.addEventListener('click', changeQuestion);
-    questionElement.textContent = generateRandomQuestions();
+    "On any given day what do you spend the most time doing?",
+
+    "At what age do you think you became an adult?",
+
+    "What's somthing you should start, but havent?",
+
+    "What is your best shower thought?",
+
+    "What do you think your signature says about you?",
+
+    "Who in your family can't you belive you are related to?",
+
+    "What one person would you like to add to your family",
+
+    ""
+
+
+
+
+
+  ];
+
+  const randomIndex = Math.floor(Math.random() * questions.length);
+  return questions[randomIndex];
+}
+
+const questionElement = document.getElementById('question');
+const changeQuestionButton = document.querySelector('.button');
+
+function changeQuestion() {
+  questionElement.textContent = generateRandomQuestions();
+}
+
+changeQuestionButton.addEventListener('click', changeQuestion);
+questionElement.textContent = generateRandomQuestions();
