@@ -2,13 +2,15 @@
   "name": "tall-talk",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  
   
   "scripts": {
     "start": "node server.js",
     "build": "react-scripts build --output ../server/public",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+
+  "homepage": "https://206dorian.github.io/Tall-Talk",
   "keywords": [],
   "author": "",
   "license": "ISC",
