@@ -232,9 +232,9 @@ function generateRandomQuestions() {
 
     "What or where is the next place you want to visit?",
 
-    // "?",
+    "What do you need right now?",
 
-    // "?",
+    "What is your dream and what are you doing to achieve it?",
 
     // "?",
 
