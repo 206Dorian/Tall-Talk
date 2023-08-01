@@ -236,9 +236,9 @@ function generateRandomQuestions() {
 
     "What is your dream and what are you doing to achieve it?",
 
-    // "?",
+    "Hows your spirit?",
 
-    // "?",
+    "What are you excited about?",
 
     // "?",
 
