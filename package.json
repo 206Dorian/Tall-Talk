@@ -6,7 +6,7 @@
   
   "scripts": {
     "start": "node server.js",
-    "deploy": "gh-pages -d client",
+    "deploy": "main -d client",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
 
