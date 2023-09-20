@@ -240,7 +240,7 @@ function generateRandomQuestions() {
 
     "What are you excited about?",
 
-    "What is you rgo to funny story?",
+    "What is your go to funny story?",
 
     "What music have you recently discovered?",
 
@@ -281,101 +281,100 @@ function generateRandomQuestions() {
 
     "If you could spend a day with your favorite celebrity, who is it and what would you do ?",
 
-    "Have you ever run into someone you knew very far from home?",
+    "Have you ever run into someone you knew when you were far from home?",
 
-    "?",
+    "Who is the most inspirational person alive today?",
 
-    "?",
+    "Would you rather be lucky or wise?",
 
-    "?",
+    "would you rather be smarter or wealthier?",
 
+    "How far back have your ancestors been traced?",
 
-    "?",
+    "What would you have for your last meal?",
 
-    "?",
+    "What do you wish you were better at saying NO to?",
 
-    "?",
+    "Whose life do you find inspiring?",
 
-    "?",
+    "If you could compete in any Olympic sport which would it be?",
 
-    "?",
+    "What are you grateful for?",
 
-    "?",
+    "Who do you love?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
-
-    "?",
+    // "?",
     
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
 
-    "?",
+    // "?",
     
 
 
