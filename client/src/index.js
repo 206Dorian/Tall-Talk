@@ -90,7 +90,7 @@ function generateRandomQuestions() {
 
     "What book do you wish you could jump into?",
 
-    "What one holiday would yuo like to get rid of?",
+    "What one holiday would you like to get rid of?",
 
     "Whats the most difficult choice you were asked to make?",
 
@@ -240,91 +240,142 @@ function generateRandomQuestions() {
 
     "What are you excited about?",
 
-    // "?",
+    "What is you rgo to funny story?",
 
-    // "?",
+    "What music have you recently discovered?",
 
-    // "?",
+    "In what era would you like to have grown up?",
 
-    // "?",
+    "What is the most unusal gift you've received?",
 
-    // "?",
+    "What was your mothers/grandmothers signature dish?",
 
-    // "?",
+    "Has your personality changed since you were young?",
 
-    // "?",
-
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
+    "If you were a Doctor waht specialty would you choose?",
 
 
-    // "?",
+    "How do you define integrity and do you have it?",
 
-    // "?",
+    "What is the most intersting museum you have visited?",
 
-    // "?",
+    "What TV/Radio host would you want to interview you?",
 
-    // "?",
+    "What advice would you most appreciate from a happy 80 year old?",
 
-    // "?",
+    "How do your siblings see life differently than you?",
 
-    // "?",
+    "What would you miss most about your home if you had to move today?",
 
-    // "?",
+    "Which unsolved case would you like to know the truth about?",
 
-    // "?",
+    "What change would you most like to change for your health?",
 
-    // "?",
+    "Who is the best teacher you've had?",
 
-    // "?",
+    "If you had to quit your job to follow a dream what would it be?",
 
-    // "?",
+    "Would you rather sing, write, paint or sew?",
 
-    // "?",
+    "would you rather go to a concert, the theatre, the ballet or a movie?",
 
-    // "?",
+    "If you could spend a day with your favorite celebrity, who is it and what would you do ?",
 
-    // "?",
+    "Have you ever run into someone you knew very far from home?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
+
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
     
 
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
+
+    "?",
     
 
 
