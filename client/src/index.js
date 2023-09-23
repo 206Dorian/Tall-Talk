@@ -301,11 +301,11 @@ function generateRandomQuestions() {
 
     "What are you grateful for?",
 
-    "Who do you love?",
+    // "Who do you love?",
 
-    // "?",
+    "What is your price per wear for an article of clothing?",
 
-    // "?",
+    "How mant chances to do you give people?",
 
     // "?",
 
