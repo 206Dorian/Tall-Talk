@@ -301,76 +301,78 @@ function generateRandomQuestions() {
 
     "What are you grateful for?",
 
-    // "Who do you love?",
+    "Who do you love?",
 
     "What is your price per wear for an article of clothing?",
 
-    "How mant chances to do you give people?",
+    "How many chances to do you give people?",
+
+    "What do you wish you didnt care about?",
 
     // "?",
 
-    // "?",
+    "What did you love when you were a kid that you no longer enjoy?",
 
-    // "?",
+    "What was something you did as a child that you still do and love ?",
 
-    // "?",
+    "What do you wish you spent less time doing?",
 
-    // "?",
+    "What's your 'No Good Deed Goes Unpunished Story'?",
 
-    // "?",
+    "Which errands do you enjoy and/or loathe the most?",
 
-    // "?",
+    "What is your favorite smell?",
 
-    // "?",
+    "What is the most underrated profession?",
     
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
-    // "?",
+    "?",
 
     // "?",
 
