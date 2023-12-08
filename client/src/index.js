@@ -324,11 +324,10 @@ function generateRandomQuestions() {
     "What is your favorite smell?",
 
     "What is the most underrated profession?",
-    
 
-    "?",
+    "What's the most common thing people ask you or say when they find out what you do for your profession?",
 
-    "?",
+    "What was your first impression of me?",
 
     "?",
 
