@@ -389,20 +389,18 @@ function generateRandomQuestions() {
     "What movie was a waste of 2 hours?",
 
     // last questions entered here
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
     
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
-
-    // "?",
 
 
   ];
