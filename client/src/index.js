@@ -254,7 +254,6 @@ function generateRandomQuestions() {
 
     "If you were a Doctor waht specialty would you choose?",
 
-
     "How do you define integrity and do you have it?",
 
     "What is the most intersting museum you have visited?",
@@ -309,9 +308,7 @@ function generateRandomQuestions() {
 
     "What do you wish you didnt care about?",
 
-    // "?",
-
-    "What did you love when you were a kid that you no longer enjoy?",
+     "What did you love when you were a kid that you no longer enjoy?",
 
     "What was something you did as a child that you still do and love ?",
 
@@ -329,54 +326,83 @@ function generateRandomQuestions() {
 
     "What was your first impression of me?",
 
-    "?",
+    "What was your first impression of the person across from you?",
 
-    "?",
+    "What was your first impression of the person to your right?",
 
-    "?",
+    "What was your first impression of the person to your left?",
 
-    "?",
+    "Which fictional character would be the most fun to have as a friend?",
 
-    "?",
+    "What was your first impression of your spouse?",
 
-    "?",
+    "What was your first impression of your best friend?",
 
-    "?",
+    "Which fictional character would you like to have as a friend?",
 
-    "?",
+    "Whats your favorite weird smell?",
 
-    "?",
+    "What do you enjoy that you dont get to do often enough?",
 
-    "?",
+    "What do people often incorrectly assume about you?",
 
-    "?",
+    "What do people often correctly assume about you?",
 
-    "?",
+    "What are you the 'go-to' person for in your family?",
 
-    "?",
+    "What are you the 'go-to' person for in your friends circle?",
 
-    "?",
+    "What is the absolute best thing you ever splurged on?",
 
-    "?",
+    "What is something other people find rude, but doesn't bother you?",
 
-    "?",
+    "What is something you find rude, but doesn't bother other people?",
 
-    "?",
+    "When was the last time you were proud of yourself?",
 
-    "?",
+    "What is something difficult for you that seems easy for everyone else?",
 
-    "?",
+    "What is something difficult for others, but is easy for you?",
 
-    "?",
+    "Who do you compare yourself to as an adult?",
 
-    "?",
+    "What about you is easy to love?",
 
-    "?",
+    "How would you like to spend your days?",
 
-    // "?",
+    "Whats one thing you like about being you?",
 
-    // "?",
+    "What popular food do you not care for?",
+
+    "What is something more people should know about?",
+
+    "What is something more people should try sexually?",
+
+    "What TV show are you obsessed that with other just dont get?",
+
+    "What TV show are others obsessed with that you just cant get into?",
+
+    "What did you eat as a kid that you cant eat now?",
     
+    "If you were a toy what accessories would be included with you?",
+
+    "What movie was a waste of 2 hours?",
+
+    // last questions entered here
+    
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
+
+    // "?",
 
 
   ];
